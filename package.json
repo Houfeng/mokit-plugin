@@ -1,0 +1,15 @@
+{
+  "name": "mokit-plugin",
+  "version": "1.0.5",
+  "description": "mokit plugin helper",
+  "main": "./index.js",
+  "scripts": {
+    "test": "mocha "
+  },
+  "keywords": [
+    "mokit",
+    "plugin"
+  ],
+  "author": "Houfeng",
+  "license": "MIT"
+}
